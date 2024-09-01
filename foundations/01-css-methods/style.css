@@ -1,0 +1,8 @@
+div{
+    display:flex;
+    background-color:red;
+    color:white;
+    font-size:32px;
+    justify-content:center;
+    font-weight:bold;
+}
