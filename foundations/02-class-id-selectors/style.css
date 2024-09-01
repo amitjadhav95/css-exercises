@@ -1,0 +1,19 @@
+.oddElems{
+    background-color:lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#evenElem1{
+    color:blue;
+    font-size:36px;
+}
+
+#evenElem2{
+    color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.oddElems.cooler{
+    font-size:24px;
+}
