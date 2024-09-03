@@ -1,0 +1,8 @@
+
+.container p{                   /*Or if you want for all divs, then just div{...}*/
+   background-color:yellow;    
+   color:red;
+   font-size:20px;
+   display:flex;
+   justify-content:center;
+}   
